@@ -1,2 +1,2 @@
 # Public
-Public repositories
+Public repo
